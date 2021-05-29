@@ -15,7 +15,6 @@ public class PessoaJuridica implements Pessoa {
 
     @Override
     public String falarDocumento() {
-        // TODO Auto-generated method stub
         return getDocumento();
     }
 
